@@ -58,5 +58,10 @@
 ## Swift
 열거형(Enum) : 
 
+## Algorithm and Structure
+그래프(Graph) : 지하철 노선도처럼 각 노드가 어떤 식으로 연결되어 있는 보여주는 것
+너비 우서 탐색(BFS, Breadth-First Search) : 루트 노드(혹은 다른 임의의 노드)에서 시작해서 인접한 노드를 먼저 탐색하는 방법 [참고](https://gmlwjd9405.github.io/2018/08/15/algorithm-bfs.html)
+
 ## Computer Science
+
 
